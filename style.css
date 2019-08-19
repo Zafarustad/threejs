@@ -3,7 +3,7 @@
 body{
     margin: 0;
     height: 100vh;
-    
+    background: #D4D4D4;
 }
 
 canvas{
@@ -11,11 +11,10 @@ canvas{
 }
 
 a{
-    margin: 0;
+    margin-right: 10px;
     display: flex;
     justify-content: flex-end;
     font-family: 'Montserrat', sans-serif;
     text-decoration: underline;
-    color: grey;
-    background: #D4D4D4;
+    color: black;
 }
