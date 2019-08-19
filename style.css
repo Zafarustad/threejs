@@ -3,7 +3,7 @@
 body{
     margin: 0;
     height: 100vh;
-    background: #D4D4D4;
+    
 }
 
 canvas{
@@ -17,4 +17,5 @@ a{
     font-family: 'Montserrat', sans-serif;
     text-decoration: underline;
     color: grey;
+    background: #D4D4D4;
 }
